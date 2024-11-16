@@ -1,0 +1,11 @@
+README.md
+setup.py
+ilyaLR3.egg-info/PKG-INFO
+ilyaLR3.egg-info/SOURCES.txt
+ilyaLR3.egg-info/dependency_links.txt
+ilyaLR3.egg-info/top_level.txt
+prog5lr2/__init__.py
+prog5lr2/getweatherdata.py
+prog5lr2/getweatherdata_test.py
+prog5lr2/main.py
+prog5lr2/owm_key.py
